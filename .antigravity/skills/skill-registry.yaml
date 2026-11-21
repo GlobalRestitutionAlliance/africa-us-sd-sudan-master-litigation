@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: sudanan-restitution-roadmap-and-qsf-trust-execution
-  name: Sudanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/sudanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_sd_001
+    name: Sudan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_002
+    name: Sudan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_003
+    name: Sudan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_004
+    name: Sudan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_005
+    name: Sudan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_006
+    name: Sudan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_007
+    name: Sudan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_008
+    name: Sudan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_009
+    name: Sudan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_010
+    name: Sudan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_011
+    name: Sudan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_012
+    name: Sudan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_013
+    name: Sudan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_014
+    name: Sudan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_015
+    name: Sudan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_016
+    name: Sudan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_017
+    name: Sudan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_018
+    name: Sudan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_019
+    name: Sudan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_020
+    name: Sudan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_021
+    name: Sudan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_022
+    name: Sudan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_023
+    name: Sudan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_024
+    name: Sudan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_025
+    name: Sudan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_026
+    name: Sudan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_027
+    name: Sudan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_028
+    name: Sudan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_029
+    name: Sudan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_030
+    name: Sudan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_031
+    name: Sudan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_032
+    name: Sudan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_033
+    name: Sudan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_034
+    name: Sudan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_035
+    name: Sudan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_036
+    name: Sudan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_037
+    name: Sudan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_038
+    name: Sudan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_039
+    name: Sudan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_040
+    name: Sudan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_041
+    name: Sudan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_042
+    name: Sudan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_043
+    name: Sudan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_044
+    name: Sudan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_045
+    name: Sudan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_046
+    name: Sudan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_047
+    name: Sudan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_048
+    name: Sudan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_049
+    name: Sudan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_050
+    name: Sudan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_051
+    name: Sudan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_052
+    name: Sudan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_053
+    name: Sudan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_054
+    name: Sudan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_055
+    name: Sudan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_056
+    name: Sudan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_057
+    name: Sudan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_058
+    name: Sudan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_059
+    name: Sudan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_060
+    name: Sudan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_061
+    name: Sudan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_062
+    name: Sudan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_063
+    name: Sudan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_064
+    name: Sudan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_065
+    name: Sudan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_066
+    name: Sudan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_067
+    name: Sudan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_068
+    name: Sudan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_069
+    name: Sudan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_070
+    name: Sudan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_071
+    name: Sudan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_072
+    name: Sudan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_073
+    name: Sudan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_074
+    name: Sudan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_075
+    name: Sudan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_076
+    name: Sudan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_077
+    name: Sudan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_078
+    name: Sudan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_079
+    name: Sudan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_080
+    name: Sudan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_081
+    name: Sudan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_082
+    name: Sudan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_083
+    name: Sudan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_084
+    name: Sudan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_085
+    name: Sudan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_086
+    name: Sudan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_087
+    name: Sudan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_088
+    name: Sudan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_089
+    name: Sudan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_090
+    name: Sudan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_091
+    name: Sudan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_092
+    name: Sudan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_093
+    name: Sudan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_094
+    name: Sudan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_095
+    name: Sudan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_096
+    name: Sudan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_097
+    name: Sudan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_098
+    name: Sudan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_099
+    name: Sudan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_100
+    name: Sudan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_101
+    name: Sudan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_102
+    name: Sudan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_103
+    name: Sudan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_104
+    name: Sudan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_105
+    name: Sudan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_106
+    name: Sudan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_107
+    name: Sudan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_108
+    name: Sudan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_109
+    name: Sudan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_110
+    name: Sudan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_111
+    name: Sudan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_112
+    name: Sudan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_113
+    name: Sudan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_114
+    name: Sudan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_115
+    name: Sudan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_116
+    name: Sudan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_117
+    name: Sudan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_118
+    name: Sudan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_119
+    name: Sudan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_120
+    name: Sudan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_121
+    name: Sudan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_122
+    name: Sudan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_123
+    name: Sudan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_124
+    name: Sudan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_125
+    name: Sudan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_126
+    name: Sudan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_127
+    name: Sudan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_128
+    name: Sudan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_129
+    name: Sudan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_130
+    name: Sudan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_131
+    name: Sudan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_132
+    name: Sudan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_133
+    name: Sudan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_134
+    name: Sudan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_135
+    name: Sudan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_136
+    name: Sudan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_137
+    name: Sudan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_138
+    name: Sudan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_139
+    name: Sudan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_140
+    name: Sudan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_141
+    name: Sudan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_142
+    name: Sudan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_143
+    name: Sudan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_144
+    name: Sudan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_145
+    name: Sudan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_146
+    name: Sudan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_147
+    name: Sudan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_148
+    name: Sudan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_149
+    name: Sudan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_150
+    name: Sudan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_151
+    name: Sudan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_152
+    name: Sudan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_153
+    name: Sudan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_154
+    name: Sudan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_155
+    name: Sudan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_156
+    name: Sudan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_157
+    name: Sudan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_158
+    name: Sudan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_159
+    name: Sudan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_160
+    name: Sudan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_161
+    name: Sudan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_162
+    name: Sudan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_163
+    name: Sudan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_164
+    name: Sudan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_165
+    name: Sudan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_166
+    name: Sudan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_167
+    name: Sudan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_168
+    name: Sudan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_169
+    name: Sudan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_170
+    name: Sudan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_171
+    name: Sudan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_172
+    name: Sudan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_173
+    name: Sudan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_174
+    name: Sudan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_175
+    name: Sudan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_176
+    name: Sudan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_177
+    name: Sudan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_178
+    name: Sudan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_179
+    name: Sudan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_180
+    name: Sudan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_181
+    name: Sudan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_182
+    name: Sudan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_183
+    name: Sudan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_184
+    name: Sudan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_185
+    name: Sudan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_186
+    name: Sudan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_187
+    name: Sudan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_188
+    name: Sudan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_189
+    name: Sudan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_190
+    name: Sudan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_191
+    name: Sudan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_192
+    name: Sudan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_193
+    name: Sudan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_194
+    name: Sudan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_195
+    name: Sudan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_196
+    name: Sudan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_197
+    name: Sudan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_198
+    name: Sudan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_199
+    name: Sudan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_200
+    name: Sudan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_201
+    name: Sudan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_202
+    name: Sudan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_203
+    name: Sudan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_204
+    name: Sudan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_205
+    name: Sudan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_206
+    name: Sudan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_207
+    name: Sudan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_208
+    name: Sudan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_209
+    name: Sudan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_210
+    name: Sudan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_211
+    name: Sudan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_212
+    name: Sudan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_213
+    name: Sudan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_214
+    name: Sudan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_215
+    name: Sudan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_216
+    name: Sudan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_217
+    name: Sudan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_218
+    name: Sudan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_219
+    name: Sudan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_220
+    name: Sudan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_221
+    name: Sudan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_222
+    name: Sudan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_223
+    name: Sudan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_224
+    name: Sudan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_225
+    name: Sudan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_226
+    name: Sudan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_227
+    name: Sudan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_228
+    name: Sudan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_229
+    name: Sudan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_230
+    name: Sudan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_231
+    name: Sudan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_232
+    name: Sudan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_233
+    name: Sudan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_234
+    name: Sudan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_235
+    name: Sudan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_236
+    name: Sudan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_237
+    name: Sudan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_238
+    name: Sudan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_239
+    name: Sudan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_240
+    name: Sudan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_241
+    name: Sudan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_242
+    name: Sudan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_243
+    name: Sudan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_244
+    name: Sudan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_245
+    name: Sudan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_246
+    name: Sudan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_247
+    name: Sudan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_248
+    name: Sudan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_249
+    name: Sudan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_250
+    name: Sudan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_251
+    name: Sudan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sd_252
+    name: Sudan Skill 252
+    status: ACTIVE_SCAFFOLD

@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-sudan-canal-and-intervention-historian
-  name: Sudan Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-sudan-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_sd_001
+    name: Sudan Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_002
+    name: Sudan Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_003
+    name: Sudan Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_004
+    name: Sudan Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_005
+    name: Sudan Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_006
+    name: Sudan Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_007
+    name: Sudan Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_008
+    name: Sudan Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_009
+    name: Sudan Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_010
+    name: Sudan Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_011
+    name: Sudan Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_012
+    name: Sudan Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_013
+    name: Sudan Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_014
+    name: Sudan Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_015
+    name: Sudan Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_016
+    name: Sudan Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_017
+    name: Sudan Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_018
+    name: Sudan Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_019
+    name: Sudan Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_020
+    name: Sudan Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_021
+    name: Sudan Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_022
+    name: Sudan Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_023
+    name: Sudan Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_024
+    name: Sudan Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_025
+    name: Sudan Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_026
+    name: Sudan Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_027
+    name: Sudan Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_028
+    name: Sudan Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_029
+    name: Sudan Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_030
+    name: Sudan Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_031
+    name: Sudan Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_032
+    name: Sudan Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_033
+    name: Sudan Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_034
+    name: Sudan Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_035
+    name: Sudan Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_036
+    name: Sudan Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_037
+    name: Sudan Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_038
+    name: Sudan Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_039
+    name: Sudan Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_040
+    name: Sudan Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_041
+    name: Sudan Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_042
+    name: Sudan Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_043
+    name: Sudan Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_044
+    name: Sudan Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_045
+    name: Sudan Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_046
+    name: Sudan Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_047
+    name: Sudan Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_048
+    name: Sudan Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_049
+    name: Sudan Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_050
+    name: Sudan Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_051
+    name: Sudan Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_052
+    name: Sudan Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_053
+    name: Sudan Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_054
+    name: Sudan Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_055
+    name: Sudan Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_056
+    name: Sudan Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_057
+    name: Sudan Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_058
+    name: Sudan Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_059
+    name: Sudan Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_060
+    name: Sudan Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_061
+    name: Sudan Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_062
+    name: Sudan Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_063
+    name: Sudan Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_064
+    name: Sudan Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_065
+    name: Sudan Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_066
+    name: Sudan Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_067
+    name: Sudan Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_068
+    name: Sudan Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_069
+    name: Sudan Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_070
+    name: Sudan Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_071
+    name: Sudan Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_072
+    name: Sudan Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_073
+    name: Sudan Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_074
+    name: Sudan Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_075
+    name: Sudan Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_076
+    name: Sudan Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_077
+    name: Sudan Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_078
+    name: Sudan Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_079
+    name: Sudan Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_080
+    name: Sudan Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_081
+    name: Sudan Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_082
+    name: Sudan Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_083
+    name: Sudan Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_084
+    name: Sudan Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_085
+    name: Sudan Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_086
+    name: Sudan Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_087
+    name: Sudan Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_088
+    name: Sudan Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_089
+    name: Sudan Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_090
+    name: Sudan Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_091
+    name: Sudan Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_092
+    name: Sudan Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_093
+    name: Sudan Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_094
+    name: Sudan Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_095
+    name: Sudan Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_096
+    name: Sudan Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_097
+    name: Sudan Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_098
+    name: Sudan Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_099
+    name: Sudan Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_100
+    name: Sudan Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_101
+    name: Sudan Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_102
+    name: Sudan Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_103
+    name: Sudan Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_104
+    name: Sudan Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_105
+    name: Sudan Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_106
+    name: Sudan Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_107
+    name: Sudan Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_108
+    name: Sudan Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_109
+    name: Sudan Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_110
+    name: Sudan Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_111
+    name: Sudan Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_112
+    name: Sudan Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_113
+    name: Sudan Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_114
+    name: Sudan Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_115
+    name: Sudan Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_116
+    name: Sudan Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_117
+    name: Sudan Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_118
+    name: Sudan Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_119
+    name: Sudan Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_120
+    name: Sudan Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_121
+    name: Sudan Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_122
+    name: Sudan Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_123
+    name: Sudan Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_124
+    name: Sudan Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_125
+    name: Sudan Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_126
+    name: Sudan Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_127
+    name: Sudan Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_128
+    name: Sudan Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_129
+    name: Sudan Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_130
+    name: Sudan Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_131
+    name: Sudan Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_132
+    name: Sudan Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_133
+    name: Sudan Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_134
+    name: Sudan Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_135
+    name: Sudan Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_136
+    name: Sudan Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_137
+    name: Sudan Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_138
+    name: Sudan Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_139
+    name: Sudan Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_140
+    name: Sudan Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_141
+    name: Sudan Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_142
+    name: Sudan Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_143
+    name: Sudan Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_144
+    name: Sudan Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_145
+    name: Sudan Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_146
+    name: Sudan Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_147
+    name: Sudan Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_148
+    name: Sudan Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_149
+    name: Sudan Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_150
+    name: Sudan Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_151
+    name: Sudan Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_152
+    name: Sudan Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_153
+    name: Sudan Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_154
+    name: Sudan Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_155
+    name: Sudan Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_156
+    name: Sudan Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_157
+    name: Sudan Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_158
+    name: Sudan Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_159
+    name: Sudan Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_160
+    name: Sudan Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_161
+    name: Sudan Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_162
+    name: Sudan Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_163
+    name: Sudan Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_164
+    name: Sudan Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_165
+    name: Sudan Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_166
+    name: Sudan Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_167
+    name: Sudan Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_168
+    name: Sudan Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_169
+    name: Sudan Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sd_170
+    name: Sudan Agent 170
+    status: ACTIVE_SCAFFOLD
