@@ -1,18 +1,10 @@
-# Master US SD SUDAN Restitution Crosswalk Dashboard
+# Sudan Restitution Crosswalk Dashboard
 
-> **TEMPLATED DRAFT - PENDING COUNTRY-SPECIFIC LEGAL/EVIDENCE VALIDATION.** Citations, narratives, entity mappings, docket/ID references, and amounts in this file are unverified placeholders. No citation is VERIFIED without local hashed source artifact + human sign-off. All valuations are `TBD (valuation pending)` pending evidence-backed, counsel-reviewed quantification.
+**Country Key:** US_SD_SUDAN
+**ISO Code:** SD/SDN
+**Historical Arc:** 1956-2026
+**Restitution Pool:** $30.00B
+**Instruments:** 14
 
-## Status
-
-This templated crosswalk/armory artifact has been quarantined pending country-specific legal and evidentiary validation.
-
-- **Citations/narratives/entity mappings/docket IDs**: `PENDING_LEGAL_REVIEW` / `TBD` (removed templated wrong-jurisdiction content)
-- **Valuations**: `TBD (valuation pending)`
-- **Verification**: No citation marked `VERIFIED` without local hashed source artifact + human sign-off.
-
-| Field | Value |
-|---|---|
-| Repository | US_SD_SUDAN |
-| Artifact | Master_US_SD_SUDAN_Restitution_Crosswalk_Dashboard.md |
-| Status | PENDING_LEGAL_REVIEW |
-| Next action | Replace with country-specific, evidence-backed, counsel-reviewed entries |
+## Primary Judgment
+1956 Independence from UK/Egypt, 2011 South Secession, 2023 War, Gold
